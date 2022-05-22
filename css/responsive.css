@@ -1,0 +1,214 @@
+@media(max-width: 1200px) {
+    .s-hero .text {
+        max-width: 49%;
+    }
+
+    .s-card-featured .all-cards {
+        width: 100%;
+
+    }
+
+    .s-card-featured .all-cards .card {
+        width: 32%;
+    }
+    .s-card-featured .second-area .all-imgs {
+        gap: 2rem 2%;
+        
+    }
+
+    .s-card-featured .second-area .all-imgs .image {
+        width: 23.5%;
+    }
+    footer main nav {
+        max-width: 63rem;
+    }
+
+}
+
+@media(max-width: 991px) {
+    header nav {
+        display: none;
+    }
+    header .menu-mobile {
+        display: block;
+    }
+    .s-hero .container {
+        flex-direction: column;
+
+    }
+    .s-hero .text {
+        max-width: 100%;
+        margin-bottom: 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .s-hero .text h1 {
+        text-align: center;
+    }
+    .s-hero .text p {
+        text-align: center;
+
+    }
+
+    .s-card-featured .all-cards {
+        flex-direction: column;
+    }
+    .s-card-featured .all-cards .card {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        padding: 3rem ;
+        margin-bottom: 20px;
+    }
+
+    .s-card-featured .all-cards .card:last-child {
+        margin-bottom: 0;
+    }
+
+    .s-card-featured .all-cards .card .info {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+    footer main nav { 
+        max-width: 45rem;
+    }
+
+}
+
+@media(max-width: 768px) {
+    footer main {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer main .area-left {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 4rem;
+    }
+
+    footer main .area-left p {
+        text-align: center;
+    }
+    footer main nav {
+        max-width: 100%;
+    }
+
+}
+
+@media(max-width: 600px) {
+    .s-card-featured .second-area .top {
+        flex-direction: column;
+        align-items: center;
+    }
+    .s-card-featured .second-area .top .title h2,
+    .s-card-featured .second-area .top .title p {
+        text-align: center;
+    }
+    .s-card-featured .second-area .top .title h2 {
+        margin-bottom: 0.8rem;
+    }
+    .s-card-featured .second-area .top .title {
+        margin-bottom: 2rem;
+    }
+}
+
+@media(max-width:480px) {
+    html {
+        font-size: 55%;
+    }
+    header .logo {
+        max-width: 130px;
+    }
+    .s-hero {
+        padding: 4rem 0;
+    }
+    .s-hero .text p {
+        margin-bottom: 3rem;
+
+    }
+    .s-hero .image {
+        height: 30rem;
+    }
+
+    .s-hero .image img {
+        max-width: 100px;
+    }
+
+    h1 {
+        font-size: 4.2rem;
+    }
+    .s-card-featured {
+        padding: 4rem 0;
+    }
+
+    .s-card-featured .title p {
+        text-align: center;
+        max-width: 80%;
+    }
+
+    .s-card-featured .main-area {
+        padding-bottom: 4rem;
+    }
+
+    .s-card-featured .second-area {
+        margin-top: 4rem;
+    }
+    .s-card-featured .second-area .top {
+        margin-bottom: 3rem;
+    }
+
+    .s-card-featured .second-area .top p {
+        margin: 0 auto;
+    }
+
+    .s-card-featured .second-area .all-imgs {
+        gap: 0.5rem 2%
+    }
+
+    .s-card-featured .second-area .all-imgs .image {
+        width: 49%;
+    }
+
+    .s-newsletter {
+        padding: 4rem 0;
+    }
+
+    footer {
+        padding: 4rem 0;
+    }
+
+    footer main {
+        padding-bottom: 4rem;
+    }
+
+    footer .copy {
+        flex-direction: column;
+    }
+
+    footer .copy p {
+        margin-bottom: 2rem;
+
+    }
+
+    footer main nav { 
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer main nav .item {
+        margin-bottom: 4rem;
+    }
+
+    footer main nav .item:last-child {
+        margin-bottom: 0;
+    }
+
+    footer main nav .item ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

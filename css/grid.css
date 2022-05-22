@@ -1,0 +1,6 @@
+.container {
+    width: 100%;
+    max-width: 1246px; /*somar 30 (15/15 dos padding)*/
+    margin: 0 auto;
+    padding: 0px 15px;
+}
