@@ -1,5 +1,8 @@
 # ProjetoWireframe
-Projeto Wireframe do curso Codeboost - com o objetivo de treinar html e css. 
+Projeto Wireframe do curso Codeboost - com o objetivo de treinar html, css e responsividade. 
+
+Pode abrir aqui para checar a página: https://caroline-medeiros.github.io/ProjetoWireframe/
+
 
 Preview: 
 
