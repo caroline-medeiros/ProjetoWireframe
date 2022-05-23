@@ -9,13 +9,13 @@ Preview:
 Section Hero:
 ![image](https://user-images.githubusercontent.com/97336674/169707694-3d204f53-1fe5-4326-ad67-27132eea7c40.png)
 
-Section   :
+Section  Cards :
 
 ![image](https://user-images.githubusercontent.com/97336674/169707711-b3d5d4e4-f18c-49cc-a595-5c11d0ec5e05.png)
 
 ![image](https://user-images.githubusercontent.com/97336674/169707720-972b0aef-8a22-460e-add7-a8c88caaf702.png)
 
-Section NewLester : 
+Section newsletter : 
 
 ![image](https://user-images.githubusercontent.com/97336674/169707733-ebb1ae21-dc7a-4b53-a64e-15eb4b68c6d8.png)
 
